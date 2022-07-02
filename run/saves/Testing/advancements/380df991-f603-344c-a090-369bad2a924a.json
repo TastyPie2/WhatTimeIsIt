@@ -1,0 +1,13 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:bamboo_jungle": "2022-06-30 10:39:43 +0200",
+      "minecraft:dark_forest": "2022-06-30 10:31:41 +0200",
+      "minecraft:mangrove_swamp": "2022-06-30 15:06:03 +0200",
+      "minecraft:sparse_jungle": "2022-06-30 14:46:38 +0200",
+      "minecraft:river": "2022-06-30 11:14:03 +0200"
+    },
+    "done": false
+  },
+  "DataVersion": 3105
+}
